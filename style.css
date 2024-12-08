@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #372C2E;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
+  
+  nav a {
+    color: #000000;
+    text-decoration: none;
+    margin: 0 15px;
+    background-color: rgb(220, 215, 213);
+    padding: 12px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+  }
+  
+  a:hover{
+    /* font-weight: bold; */
+    background-color: #866251;
+    color: white;
+  }
+  
+  main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  
+
+  .imh1{
+    font-family: "Doto", sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: #d3cfc9;
+
+  }
+
+   .rmh1, .bmh1{
+    font-family: "Zen Dots", sans-serif;
+    font-size: 40px;
+    color: #d3cfc9;
+
+  }
+
+
+
+  .ihh1,.rhh1,.bhh1{
+    font-family:"Zen Dots", sans-serif ;
+    font-weight:900;
+    margin-bottom: 45px;
+  }
+
+  .imp{
+    color: #b8b3b1;
+    font-size: larger;
+    font-family: "Zen Dots", sans-serif;
+    text-align: center;
+    font-size: 45px;
+  }
+
+  .inav,.rnav,.bnav{
+    margin-bottom: 15px;
+  }
+
+
+  .res {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    
+  }
+
+  .res1>h2 {
+    margin-right: 15px;
+    font-family: "Zen Dots", sans-serif;
+    color: rgb(211, 129, 62);
+    font-weight: 100  ;
+  }
+  
+  .res2>p
+  {
+   color: rgb(199, 195, 185);
+    margin-bottom: 23px;
+    font-family: "Poppins", sans-serif;
+    font-size: large
+
+ }
+
+ .res2{
+  margin-top: 10px;
+  margin-left: 150px;
+ }
+
+ .biom{
+display: flex;
+flex-direction: column; 
+align-items: center;}
+  
